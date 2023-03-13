@@ -1,0 +1,15 @@
+C:\Users\marko\OneDrive\Desktop\HomeworkC#\2class\class2Exercise3\class2Exercise3\bin\Debug\net6.0\class2Exercise3.exe
+C:\Users\marko\OneDrive\Desktop\HomeworkC#\2class\class2Exercise3\class2Exercise3\bin\Debug\net6.0\class2Exercise3.deps.json
+C:\Users\marko\OneDrive\Desktop\HomeworkC#\2class\class2Exercise3\class2Exercise3\bin\Debug\net6.0\class2Exercise3.runtimeconfig.json
+C:\Users\marko\OneDrive\Desktop\HomeworkC#\2class\class2Exercise3\class2Exercise3\bin\Debug\net6.0\class2Exercise3.dll
+C:\Users\marko\OneDrive\Desktop\HomeworkC#\2class\class2Exercise3\class2Exercise3\bin\Debug\net6.0\class2Exercise3.pdb
+C:\Users\marko\OneDrive\Desktop\HomeworkC#\2class\class2Exercise3\class2Exercise3\obj\Debug\net6.0\class2Exercise3.csproj.AssemblyReference.cache
+C:\Users\marko\OneDrive\Desktop\HomeworkC#\2class\class2Exercise3\class2Exercise3\obj\Debug\net6.0\class2Exercise3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marko\OneDrive\Desktop\HomeworkC#\2class\class2Exercise3\class2Exercise3\obj\Debug\net6.0\class2Exercise3.AssemblyInfoInputs.cache
+C:\Users\marko\OneDrive\Desktop\HomeworkC#\2class\class2Exercise3\class2Exercise3\obj\Debug\net6.0\class2Exercise3.AssemblyInfo.cs
+C:\Users\marko\OneDrive\Desktop\HomeworkC#\2class\class2Exercise3\class2Exercise3\obj\Debug\net6.0\class2Exercise3.csproj.CoreCompileInputs.cache
+C:\Users\marko\OneDrive\Desktop\HomeworkC#\2class\class2Exercise3\class2Exercise3\obj\Debug\net6.0\class2Exercise3.dll
+C:\Users\marko\OneDrive\Desktop\HomeworkC#\2class\class2Exercise3\class2Exercise3\obj\Debug\net6.0\refint\class2Exercise3.dll
+C:\Users\marko\OneDrive\Desktop\HomeworkC#\2class\class2Exercise3\class2Exercise3\obj\Debug\net6.0\class2Exercise3.pdb
+C:\Users\marko\OneDrive\Desktop\HomeworkC#\2class\class2Exercise3\class2Exercise3\obj\Debug\net6.0\class2Exercise3.genruntimeconfig.cache
+C:\Users\marko\OneDrive\Desktop\HomeworkC#\2class\class2Exercise3\class2Exercise3\obj\Debug\net6.0\ref\class2Exercise3.dll
